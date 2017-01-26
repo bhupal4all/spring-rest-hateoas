@@ -1,0 +1,11 @@
+/.gradle
+/.mvn
+/bin/
+/mvnw
+/mvnw.cmd
+/pom.xml
+/.settings
+/bin
+/.classpath
+/.project
+/build
